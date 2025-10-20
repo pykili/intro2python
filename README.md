@@ -18,6 +18,7 @@
 |1|02.10.2025|[Вводная лекция](2025-2026/lectures/lecture_intro.pdf)| - |
 |2|06.10.2025 — 12.10.2025|[Арифметика, переменные, типы данных, ввод и вывод](2025-2026/seminars/sem01_intro)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/82721/problems/)|
 |3|13.10.2025 — 19.10.2025|[Условные конструкции](2025-2026/seminars/sem02_if)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/83152/enter/)|
+|4|20.10.2025 — 26.10.2025|[Циклы](2025-2026/seminars/sem03_loop)|-|
 ||-|-|-|
 
 
