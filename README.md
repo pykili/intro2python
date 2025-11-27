@@ -20,6 +20,8 @@
 |3|13.10.2025 — 19.10.2025|[Условные конструкции](2025-2026/seminars/sem02_if)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/83152/enter/)|
 |4|20.10.2025 — 26.10.2025|[Циклы](2025-2026/seminars/sem03_loop)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/84406/problems/)|
 |5|10.11.2025 — 16.11.2025|[Списки. Кортежи](2025-2026/seminars/sem04_lists_tuples)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/85207/problems/)|
+|6|17.11.2025 — 23.11.2025|[Строки](2025-2026/seminars/sem05_strings)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/85682/enter/)|
+|7|24.11.2025 — 30.11.2025|[Множества](2025-2026/seminars/sem06_hash_sets)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/86097/problems/)|
 ||-|-|-|
 
 
@@ -28,8 +30,10 @@
 | # | Ссылка | Дедлайн |
 |-|-|-|
 |1|[Домашнее задание №1](https://official.contest.yandex.ru/contest/83813/enter/)|13 ноября 23:59:59|
+|2|[Домашнее задание №2](https://official.contest.yandex.ru/contest/86218/problems)|12 декабря 23:59:59|
 ||-|-|
 
 ## Полезные ссылки
 
 - [Конспекты ПМИ ФКН](https://disk.yandex.ru/i/BkcKilJkumcPV)
+- [PEP-8](https://peps.python.org/pep-0008/)
