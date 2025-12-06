@@ -22,7 +22,12 @@
 |5|10.11.2025 — 16.11.2025|[Списки. Кортежи](2025-2026/seminars/sem04_lists_tuples)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/85207/problems/)|
 |6|17.11.2025 — 23.11.2025|[Строки](2025-2026/seminars/sem05_strings)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/85682/enter/)|
 |7|24.11.2025 — 30.11.2025|[Множества](2025-2026/seminars/sem06_hash_sets)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/86097/problems/)|
+|8|01.12.2025 — 07.12.2025|[Словари](2025-2026/seminars/sem07_dicts)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/86437/problems/)|
+|9|08.12.2025 — 14.12.2025|[]()|[]()|
+|-|13.12.2025|Контрольная работа|[]()|
 ||-|-|-|
+
+
 
 
 ## Домашние задания
