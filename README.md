@@ -37,7 +37,7 @@
 |-|-|-|
 |1|[Домашнее задание №1](https://official.contest.yandex.ru/contest/83813/enter/)|13 ноября 23:59:59|
 |2|[Домашнее задание №2](https://official.contest.yandex.ru/contest/86218/problems)|12 декабря 23:59:59|
-|2|[Домашнее задание №2](https://official.contest.yandex.ru/contest/87195/enter/)|9 января 23:59:59|
+|3|[Домашнее задание №2](https://official.contest.yandex.ru/contest/87195/enter/)|9 января 23:59:59|
 ||-|-|
 
 ## Полезные ссылки
