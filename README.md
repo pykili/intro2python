@@ -27,7 +27,9 @@
 |-|13.12.2025|Контрольная работа|[]()|
 |10|15.12.2025 — 20.12.2025|Разбор контрольной работы|[]()|
 |11|21.01.2026|[Лекция. Функции](2025-2026/lectures/lecture_functions.pdf)|[]()|
-|12|26.01.2026 — 01.02.2026|Функции|[Ссылка на задачи](https://official.contest.yandex.ru/contest/89234/problems/)|
+|12|26.01.2026 — 01.02.2026|[Функции](2025-2026/seminars/sem09_functions)|[Ссылка на задачи](https://official.contest.yandex.ru/contest/89234/problems/)|
+|13|02.02.2026 — 08.02.2026|[Рекурсия](2025-2026/seminars/sem10_recursion)||
+|14|09.02.2026 — 15.02.2026|[Импорт. Модули](2025-2026/seminars/sem11_import)||
 |-|-|-|-|
 
 ## Домашние задания
@@ -37,6 +39,7 @@
 |1|[Домашнее задание №1](https://official.contest.yandex.ru/contest/83813/enter/)|13 ноября 23:59:59|
 |2|[Домашнее задание №2](https://official.contest.yandex.ru/contest/86218/problems)|12 декабря 23:59:59|
 |3|[Домашнее задание №3](https://official.contest.yandex.ru/contest/87195/enter/)|9 января 23:59:59|
+|4|[Домашнее задание №4](https://official.contest.yandex.ru/contest/89380/enter/)|28 февраля 23:59:59|
 |-|-|-|
 
 ## Полезные ссылки
