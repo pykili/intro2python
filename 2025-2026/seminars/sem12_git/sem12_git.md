@@ -102,7 +102,7 @@ No commits yet
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   1.txt
-        
+
 ```
 6. Попробуйте создать файл, который будет называться `мой файл.txt`. И добавьте его с помощью `git add`. Как это сделать?
 7. Попробуйте создать папку и создать в ней несколько файлов. Как их добавить с помощью `git add`?
@@ -119,7 +119,7 @@ Changes to be committed:
 Если же вы забыли про флаг `-m`, то вас должно перебросить в vim и будет что-то такое:
 
 ```vim
- 
+
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
