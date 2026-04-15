@@ -45,6 +45,7 @@
 |2|[Домашнее задание №2](https://official.contest.yandex.ru/contest/86218/problems)|12 декабря 23:59:59|
 |3|[Домашнее задание №3](https://official.contest.yandex.ru/contest/87195/enter/)|9 января 23:59:59|
 |4|[Домашнее задание №4](https://official.contest.yandex.ru/contest/89380/enter/)|28 февраля 23:59:59|
+|5|[Домашнее задание №5](https://contest.yandex.ru/contest/93366/enter/?retPage=problems)|30 апреля 23:59:59|
 |-|-|-|
 
 ## Полезные ссылки
