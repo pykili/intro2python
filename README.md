@@ -16,7 +16,7 @@
 | # | Дата | Тема | Тренировочный контест |
 |-|-|-|-|
 |1|17.09.2026|[Вводная лекция](2026-2027/lectures/lecture_intro.pdf)| - |
-|-|-|-|-|
+|2|21.09.2026 – 27.09.2026|Арифметика, переменные, типы данных, ввод и вывод|[Ссылка на задачи](https://contest.yandex.ru/contest/100003/problems/)|
 
 ## Домашние задания
 
@@ -26,5 +26,6 @@
 
 ## Полезные ссылки
 
+- [Установка и настройка Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Конспекты ПМИ ФКН](https://disk.yandex.ru/i/BkcKilJkumcPV)
 - [PEP-8](https://peps.python.org/pep-0008/)
