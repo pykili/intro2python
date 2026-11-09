@@ -31,5 +31,7 @@
 ## Полезные ссылки
 
 - [Установка и настройка Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Учебник по питону](https://edu.hse.ru/course/view.php?id=133389)
+- [Открытый банк заданий для подготовки к НЭ](https://edu.hse.ru/course/view.php?id=211219)
 - [Конспекты ПМИ ФКН](https://disk.yandex.ru/i/BkcKilJkumcPV)
 - [PEP-8](https://peps.python.org/pep-0008/)
