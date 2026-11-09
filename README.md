@@ -20,6 +20,7 @@
 |3|28.09.2026 – 04.10.2026|Условные конструкции <br> [(Группа 1, Ксения)](2026-2027/seminars/sem02_if_ksenia.ipynb)|[Ссылка на задачи](https://contest.yandex.ru/contest/100004/enter)|
 |4|05.10.2026 – 11.10.2026|Циклы while и for <br> [(Группа 3, Вероника)](2026-2027/seminars/sem03_loop_veronika.ipynb)|[Ссылка на задачи](https://contest.yandex.ru/contest/100005/problems/)|
 |5|02.11.2026 – 08.11.2026|Списки и кортежи <br> [(Группа 3, Вероника)](2026-2027/seminars/sem04_lists_tuples_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102585/problems/A/)|
+|6|09.11.2026 – 15.11.2026|Строки <br> [(Группа 3, Вероника)](2026-2027/seminars/sem05_strings_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102586/problems/)|
 
 ## Домашние задания
 
