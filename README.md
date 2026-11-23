@@ -22,6 +22,7 @@
 |5|02.11.2026 – 08.11.2026|Списки и кортежи <br> [(Группа 3, Вероника)](2026-2027/seminars/sem04_lists_tuples_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102585/problems/A/)|
 |6|09.11.2026 – 15.11.2026|Строки <br> [(Группа 3, Вероника)](2026-2027/seminars/sem05_strings_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102586/problems/)|
 |7|16.11.2026 – 22.11.2026|Множества <br> [(Группа 3, Вероника)](2026-2027/seminars/sem06_hash_sets_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102587/problems/)|
+|8|23.11.2026 – 29.11.2026|Словари <br> [(Группа 3, Вероника)](2026-2027/seminars/sem07_dicts_veronika.ipynb) |[Ссылка на задачи](https://contest.yandex.ru/contest/102588/problems/)|
 
 ## Домашние задания
 
